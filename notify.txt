@@ -1,6 +1,6 @@
-1.0.0
+1.0.1
 
-- Intitial Pull
+- Hooks Added
 
 https://github.com/Lime-Studios/lime_notify
 
