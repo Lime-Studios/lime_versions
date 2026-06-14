@@ -2,4 +2,4 @@
 enabled=true
 msg=^3[Lime Studios] ^7We just released test! Check it out: https://github.com/Lime-Studios
 target=all
-delay=15000
+delay=60000
