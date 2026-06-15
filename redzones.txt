@@ -1,6 +1,7 @@
-1.0.0
+1.0.1
 
-- Release
+- Added Logs
+- Permissions Fixed
 
 https://github.com/Lime-Studios/lime_redzones
 
