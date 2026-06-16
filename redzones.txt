@@ -1,7 +1,8 @@
-1.0.1
+1.0.2
 
 - Added Logs
-- Permissions Fixed
+- SQL Fixes
+- Tutorial Added
 
 https://github.com/Lime-Studios/lime_redzones
 
