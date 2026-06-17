@@ -2,4 +2,4 @@
 
 - Initial Release
 
-https://github.com/Motion-Scripts/motion_entityselector
+https://github.com/Lime-Studios/lime_entityselector
