@@ -1,8 +1,10 @@
-1.0.2
+1.0.3
 
-- Added Logs
-- SQL Fixes
-- Tutorial Added
+- UI Fixes (Font/Colours)
+- Bug Fixes
+- Fixed bridge (ambulance)
+- Added fonts folder (web)
+
 
 https://github.com/Lime-Studios/lime_redzones
 
