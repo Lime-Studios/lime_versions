@@ -1,8 +1,9 @@
-1.0.3
+2.0.0
 
-- Svelte 5 is now used for the UI
-- Optimized Heavily
-- Slight Fixes
+- New UI
+- New Hooks
+- New Menu 
+- New Bug fixes / optimizations
 
 https://github.com/Lime-Studios/lime_notify
 
