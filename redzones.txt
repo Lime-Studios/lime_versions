@@ -1,9 +1,11 @@
-1.1.0
+2.0.0
 
-- UI Fixes (Font/Colours)
-- Bug Fixes
-- Fixed bridge (ambulance)
-- Added fonts folder (web)
+- Commmunity Bridge support added for more compatibility old bridge also works
+- Greenzones Added
+- Can now draw redzones and greenzones
+- Bulk Editor
+- Ingame Logs 
+- Tablet animated added (custom prop coming soon)
 
 
 https://github.com/Lime-Studios/lime_redzones
