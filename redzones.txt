@@ -1,11 +1,11 @@
-2.0.0
+2.0.1
 
 - Commmunity Bridge support added for more compatibility old bridge also works
 - Greenzones Added
 - Can now draw redzones and greenzones
 - Bulk Editor
 - Ingame Logs 
-- Tablet animation added (custom prop coming soon)
+- Tablet animation added and added a custom prop
 - Teleporting to redzones added
 
 
