@@ -5,7 +5,8 @@
 - Can now draw redzones and greenzones
 - Bulk Editor
 - Ingame Logs 
-- Tablet animated added (custom prop coming soon)
+- Tablet animation added (custom prop coming soon)
+- Teleporting to redzones added
 
 
 https://github.com/Lime-Studios/lime_redzones
