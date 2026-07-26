@@ -1,4 +1,4 @@
-2.0.1
+2.1.0
 
 - Commmunity Bridge support added for more compatibility old bridge also works
 - Greenzones Added
@@ -7,7 +7,7 @@
 - Ingame Logs 
 - Tablet animation added and added a custom prop
 - Teleporting to redzones added
-
+- 2.1.0 | Bug fixes + theme editor and new features
 
 https://github.com/Lime-Studios/lime_redzones
 
